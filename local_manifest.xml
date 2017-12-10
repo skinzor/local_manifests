@@ -7,4 +7,8 @@
     <project name="skinzor/nova_stock_kernel"  path="kernel/huawei/msm8953" remote="github" revision="cm-14.1" />
 <!-- Vendor tree -->
     <project name="skinzor/proprietary_vendor_huawei"  path="vendor/huawei" remote="github" revision="cm-14.1" />
+
+<!-- Track ThemeInterfacer -->
+    <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
+
 </manifest>
