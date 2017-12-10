@@ -2,7 +2,7 @@
 <manifest>
 
 <!-- Device tree -->
-    <project name="skinzor/android_device_huawei_hwcan"  path="device/huawei/hwcan" remote="github" revision="cm-14.1" />
+    <project name="skinzor/android_device_huawei_hwcan"  path="device/huawei/hwcan" remote="github" revision="aex-n" />
 <!-- Kernel source -->
     <project name="skinzor/nova_stock_kernel"  path="kernel/huawei/msm8953" remote="github" revision="cm-14.1" />
 <!-- Vendor tree -->
